@@ -49,21 +49,16 @@
 </tr>
 </table>
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ZemskovIK&theme=react&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" />
-      </td>
-      <td>
-        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZemskovIK&theme=react&hide_border=false&layout=compact&langs_count=8" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img height="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=ZemskovIK&theme=react-dark&hide_border=false&area=true" />
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 16px;">
+        <div style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;">
+      <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=ZemskovIK&theme=github_dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true" />
+      <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZemskovIK&theme=github_dark&hide_border=false&layout=compact&langs_count=8" />
+    </div>
+    <div>
+      <img height="250em" src="https://github-readme-activity-graph.vercel.app/graph?username=ZemskovIK&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
+    </div>
+  </div>
 </div>
