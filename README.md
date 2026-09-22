@@ -59,8 +59,6 @@
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
 <table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td align="center">
