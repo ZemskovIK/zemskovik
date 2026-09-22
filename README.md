@@ -59,20 +59,25 @@
 
 ## 📊 GitHub Analytics
 
-<table align="center" border="0" cellpadding="8" cellspacing="0">
+## 📊 GitHub Analytics
+
+<table align="center" border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td align="center">
-      <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=ZemskovIK&theme=github_dark&hide_border=false&show_icons=true&count_private=true" />
+      <img height="195em" src="https://github-readme-stats-fast.vercel.app/api?username=ZemskovIK&theme=github_dark&hide_border=true&show_icons=true&count_private=true" />
     </td>
     <td align="center">
-      <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=ZemskovIK&theme=github_dark" />
+      <img height="195em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=ZemskovIK&theme=github_dark&hide_border=true" />
     </td>
-    <td align="center">
-      <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZemskovIK&theme=github_dark&hide_border=false&layout=compact&langs_count=8" />
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img height="250em" src="https://github-readme-activity-graph-jade-tau.vercel.app/graph?username=ZemskovIK&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img height="195em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZemskovIK&theme=github_dark&hide_border=true&layout=compact&langs_count=8" />
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img height="250em" src="https://github-readme-activity-graph-jade-tau.vercel.app/graph?username=ZemskovIK&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
-</p>
